@@ -1,0 +1,21 @@
+{
+  "name": "ueh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMT3-vjp-pro/UEH.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CMT3-vjp-pro/UEH/issues"
+  },
+  "homepage": "https://github.com/CMT3-vjp-pro/UEH#readme"
+}
